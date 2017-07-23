@@ -12,4 +12,4 @@ r = requests.get(base_url+cfps_url)
 soup = BeautifulSoup(r.text, "lxml")
 
 next_url = soup.find("a", {"rel":"next"})
-print next_url
+print next_url['href']

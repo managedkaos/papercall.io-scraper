@@ -1,0 +1,31 @@
+dev up Conference 2017 - St. Louis, MO https://www.papercall.io/devup2017
+GraphConnect New York - New York City https://www.papercall.io/graphconnectnyc17
+DNN Summit 2018 - Denver, CO https://www.papercall.io/dnnsummit2018
+PyCascades 2018 - Vancouver, BC https://www.papercall.io/pycascades-2018
+JVMCON - Cinemec, Ede, The Netherlands https://www.papercall.io/jvmcon
+GothamGo Go Language Conference - New York City, Oct 5-6 2017 https://www.papercall.io/gothamgo2017
+DevOpsDays Nashville 2017 - Nashville, Tennessee https://www.papercall.io/devopsdaysnash2017
+JUGBD Meetup 7.0 - Dhaka, Bangladesh https://www.papercall.io/jugbd-meetup-7
+PyConDE 2017 & PyData Karlsruhe - Karlsruhe, Germany https://www.papercall.io/pyconde2017
+Conferences of Danube - Danube Delta https://www.papercall.io/codexp2017
+Developer Marketing Summit - Burlingame, CA (Near SFO Airport) https://www.papercall.io/devmarketingsummit
+Voxxed Days Cluj-Napoca - Cluj-Napoca, Transylvania, Romania https://www.papercall.io/vdclj
+Keep it Low Conf - Lowell, MA https://www.papercall.io/keepitlowconf
+Launch Summit - Online https://www.papercall.io/launchsummit
+TechShift.ro - Iasi, Romania https://www.papercall.io/techshiftro
+Daugherty Business Solutions SA&E Summit 2017 - St. Louis Daugherty Office https://www.papercall.io/dbs-summit-2017
+dev up Conference 2017 - St. Louis, MO https://www.papercall.io/devup2017
+GraphQL Summit 2017 - San Francisco, CA  https://www.papercall.io/graphql-summit-2017
+DevOps Days Madison 2017 - Madison, WI https://www.papercall.io/devopsdaysmsn2017
+GraphConnect New York - New York City https://www.papercall.io/graphconnectnyc17
+Sysdig CCWFS  - The Hands-On Container Conference - San Francisco, CA  https://www.papercall.io/sysdigccwfs
+BuzzConf Technology Festival 2017 - Ballan, Victoria, Australia https://www.papercall.io/buzzconf-2017
+IP EXPO Europe - London UK https://www.papercall.io/ipe
+DevOpsDays Auckland 2017 - Auckland, NZ https://www.papercall.io/devopsdays-auckland-2017
+FOSS4G+SOTM Argentina 2017 - Buenos Aires, Argentina https://www.papercall.io/foss4g-sotm
+dev up Conference 2017 - St. Louis, MO https://www.papercall.io/devup2017
+GraphConnect New York - New York City https://www.papercall.io/graphconnectnyc17
+DNN Summit 2018 - Denver, CO https://www.papercall.io/dnnsummit2018
+PyCascades 2018 - Vancouver, BC https://www.papercall.io/pycascades-2018
+JVMCON - Cinemec, Ede, The Netherlands https://www.papercall.io/jvmcon
+Sela Developer Practice - Tel Aviv, Israel https://www.papercall.io/sdp2017

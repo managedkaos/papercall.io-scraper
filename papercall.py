@@ -1,3 +1,4 @@
+import re
 import requests
 from bs4 import BeautifulSoup
 
@@ -18,11 +19,31 @@ while cfps_url is not None:
 
     # get all the divs with the "box" class
     for box in soup.find_all("div", {"class":"box"}):
-	for justifize in box("div", {"class":"justifize__box"}):
-	   for event_titles in justifize.find_all("h3", {"class":"event__title"}):
+       for justifize in box("div", {"class":"justifize__box"}):
+           for event_titles in justifize.find_all("h3", {"class":"event__title"}):
                for event in event_titles.find_all("a", {"class":""}):
-                   print "%s %s" % (event.string, event['href'])
+                   print event.string
+                   
+                   # get the event name and location
+                   match = event.string.split(" - ")
 
+                   # expect no location if only one item in match
+                   if len(match) == 1:
+                       match.append("")
+
+                   # expect a dash in the name if three items in match
+                   elif len(match) == 3:
+                       match[0] = match[0] + " - " + match[1]
+                       match[1] = match[2]
+
+                   # otherwise match should be good(?)
+                   else:
+                       pass
+
+                   print "name:     ", match[0]
+                   print "location: ", match[1]
+                   print "url:      ", event['href']
+                   print
            #for meta_data in justifize.find_all("h4"):
            #    print meta_data
 

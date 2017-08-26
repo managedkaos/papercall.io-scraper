@@ -1,4 +1,7 @@
 *.out
+*.jar
+third_party_licenses/*
+DynamoDBLocal_lib/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
